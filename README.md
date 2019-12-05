@@ -1,6 +1,6 @@
 # Uclips-symfony 5
-Install symfony https://symfony.com/download
-Install Composer https://getcomposer.org/download/ 
+### Install symfony https://symfony.com/download
+### Install Composer https://getcomposer.org/download/ 
 
-## Composer update
+## composer update
 ## symfony server:start
